@@ -1,0 +1,9 @@
+rootProject.name = 'springboot-web-application'
+
+// domains
+include 'domains:customer-domain'
+include 'domains:board-domain'
+
+// apis
+include 'apps:api-app'
+
