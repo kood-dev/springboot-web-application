@@ -3,11 +3,13 @@
 
 ## 목표
     - 커머스 만들기 ????
-## 사용기술
-1. Spring
+## 환경
+1. Java 11
+2. build tool - gradle 6.7.1 ```./gradlew wrapper --gradle-version 6.7.1 ```
+3. Framwork - Spring boot 2.4.4
     - Boot Stater
-        - Security
         - Web
+        - Security
         - JPA
         - Redis
         - Thymeleaf
